@@ -1,4 +1,4 @@
-
+# To copy an ED25519 key to the clipboard
 
 
 ```bash
