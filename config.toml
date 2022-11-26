@@ -2,3 +2,6 @@ baseURL = 'http://notes.melkialarcon.com/'
 languageCode = 'en-us'
 title = 'Second 🧠'
 theme = 'PaperMod'
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
