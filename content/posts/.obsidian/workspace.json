@@ -1,0 +1,147 @@
+{
+  "main": {
+    "id": "f1a10e23f8b2150e",
+    "type": "split",
+    "children": [
+      {
+        "id": "048d2fff322d7ca4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e3dbb83006340d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VimMasterclass.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b6a0b43fe83e9d6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c03b0cdbdaa3615e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "954b641d11d45a6b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fcc20fc14a0d9813",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "259bd38e57f88e7b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c8c1ee73df4cab83",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3673bfd02ede6df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bd8784336171087",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "VimMasterclass.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e9302d8be742399f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "VimMasterclass.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a211a2e36b31aa8b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "904257bd229afc6f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "VimMasterclass.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5e3dbb83006340d1",
+  "lastOpenFiles": [
+    "A Quick and Easy Guide to tmux.md",
+    "my-first-post.md",
+    "To copy an ED25519 key to the clipboard.md",
+    "VimMasterclass.md",
+    "Untitled.md"
+  ]
+}
