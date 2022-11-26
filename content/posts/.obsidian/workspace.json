@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "26161c90d01e44d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "my-second-post.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YingYang.md",
+                "file": "my-second-post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "YingYang.md",
+                "file": "my-second-post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "YingYang.md"
+                "file": "my-second-post.md"
               }
             }
           }
@@ -136,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "853d8e667480bd5d",
+  "active": "954b641d11d45a6b",
   "lastOpenFiles": [
+    "A Quick and Easy Guide to tmux.md",
+    "my-second-post.md",
+    "my-first-post.md",
+    "YingYang.md",
     "my_image.jpg",
     "1. Network Fundamentals/1. Network models.md",
     "myimage.jpeg.md",
-    "YingYang.md",
     "9. IPv 4 addressing and subnetting.md",
     "8. TCP and UDP.md",
-    "VimMasterclass.md",
-    "1. Network Fundamentals/2. Network components.md",
-    "1. Network Fundamentals/4. Physical interface and cable types.md",
-    "5. Command-line interface.md"
+    "VimMasterclass.md"
   ]
 }
