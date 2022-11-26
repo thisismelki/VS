@@ -4,8 +4,9 @@ date: 2022-11-22T19:56:13-05:00
 draft: false
 ---
 
-# Git ignoring
+# .DS_Store ignoring
 
+https://stackoverflow.com/questions/18393498/gitignore-all-the-ds-store-files-in-every-folder-and-subfolder
 
 I think the problem you're having is that in some earlier commit, you've accidentally added `.DS_Store` files to the repository. Of course, once a file is tracked in your repository, it will continue to be tracked even if it matches an entry in an applicable .gitignore file.
 
