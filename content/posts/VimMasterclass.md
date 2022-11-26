@@ -1,3 +1,5 @@
+
+
 # Section 2 Vim Quickstart
 
 i = Insert Mode
