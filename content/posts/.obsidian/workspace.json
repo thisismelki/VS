@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VimMasterclass.md",
+                "file": "1. Network Fundamentals/1. Network models.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VimMasterclass.md",
+                "file": "1. Network Fundamentals/1. Network models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VimMasterclass.md",
+                "file": "1. Network Fundamentals/1. Network models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VimMasterclass.md"
+                "file": "1. Network Fundamentals/1. Network models.md"
               }
             }
           }
@@ -138,10 +138,15 @@
   },
   "active": "5e3dbb83006340d1",
   "lastOpenFiles": [
+    "1. Network Fundamentals/2. Network components.md",
+    "1. Network Fundamentals/4. Physical interface and cable types.md",
+    "1. Network Fundamentals/1. Network models.md",
+    "5. Command-line interface.md",
+    "7. Interface and cable issue troubleshooting.md",
+    "8. TCP and UDP.md",
+    "9. IPv 4 addressing and subnetting.md",
+    "10. Configuring IPv4 addressing.md",
     "A Quick and Easy Guide to tmux.md",
-    "my-first-post.md",
-    "To copy an ED25519 key to the clipboard.md",
-    "VimMasterclass.md",
-    "Untitled.md"
+    "To copy an ED25519 key to the clipboard.md"
   ]
 }
