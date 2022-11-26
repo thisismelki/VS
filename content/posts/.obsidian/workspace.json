@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "048d2fff322d7ca4",
+        "id": "3a01ec9c431a4068",
         "type": "tabs",
         "children": [
           {
-            "id": "5e3dbb83006340d1",
+            "id": "853d8e667480bd5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Network Fundamentals/1. Network models.md",
+                "file": "YingYang.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Network Fundamentals/1. Network models.md",
+                "file": "YingYang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Network Fundamentals/1. Network models.md",
+                "file": "YingYang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Network Fundamentals/1. Network models.md"
+                "file": "YingYang.md"
               }
             }
           }
@@ -136,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5e3dbb83006340d1",
+  "active": "853d8e667480bd5d",
   "lastOpenFiles": [
+    "my_image.jpg",
+    "1. Network Fundamentals/1. Network models.md",
+    "myimage.jpeg.md",
+    "YingYang.md",
+    "9. IPv 4 addressing and subnetting.md",
+    "8. TCP and UDP.md",
+    "VimMasterclass.md",
     "1. Network Fundamentals/2. Network components.md",
     "1. Network Fundamentals/4. Physical interface and cable types.md",
-    "1. Network Fundamentals/1. Network models.md",
-    "5. Command-line interface.md",
-    "7. Interface and cable issue troubleshooting.md",
-    "8. TCP and UDP.md",
-    "9. IPv 4 addressing and subnetting.md",
-    "10. Configuring IPv4 addressing.md",
-    "A Quick and Easy Guide to tmux.md",
-    "To copy an ED25519 key to the clipboard.md"
+    "5. Command-line interface.md"
   ]
 }
