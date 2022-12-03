@@ -3,10 +3,4 @@ languageCode = 'en-us'
 title = 'Second 🧠'
 theme = 'PaperMod'
 
-[[module.mounts]]
-source = 'static'
-target = 'static'
 
-[[module.mounts]]
-source = 'images'
-target = 'static/images
