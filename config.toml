@@ -1,11 +1,11 @@
 baseURL = 'http://notes.melkialarcon.com/'
 languageCode = 'en-us'
-title = 'Second 🧠'
+title = 'Second 🧠🧠'
 theme = 'PaperMod'
 
 
 
 [module]
 [[module.mounts]]
-  source = './content/posts/Attachments'
-  target = 'static'
+  source = 'images'
+  target = 'static/images'
