@@ -4,3 +4,8 @@ title = 'Second 🧠'
 theme = 'PaperMod'
 
 
+
+[module]
+[[module.mounts]]
+  source = './content/posts/Attachments'
+  target = 'static'
