@@ -8,8 +8,8 @@
 
 ### Jmoor
 
-![Jmoor pic](../../images/Pasted%20image%20221203123146.png)
+![Jmoor pic](~/VS/images/Pasted%20image%20221203123146.png)
 
 #### 4th Heading
 
-
+![Full path ](/Users/m/VS/images/Pasted%20image%20221203123146.png)
