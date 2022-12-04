@@ -1,13 +1,14 @@
-# This is the Main Heading
-![](Pasted%20image%2020221203183750.png)
+# Default in Obsidian
+![Red & Green Text](Pasted%20image%2020221203183750.png)
 
 
-## 2nd Heading
-![](./Attachments/Pasted%20image%2020221203183811.png)
+## ./Attachments
+![Shell Graphic](./Attachments/Pasted%20image%2020221203183811.png)
 
 
-### 3rd Heading
+### Jmoor
 
+![Jmoor pic](../../images/Pasted%20image%20221203123146.png)
 
 #### 4th Heading
 

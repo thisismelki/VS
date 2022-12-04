@@ -7,5 +7,5 @@ theme = 'PaperMod'
 
 [module]
 [[module.mounts]]
-  source = 'content/posts/Attachments'
-  target = 'static'
+  source = 'images'
+  target = 'static/images'
