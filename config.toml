@@ -1,6 +1,6 @@
 baseURL = 'http://notes.melkialarcon.com/'
 languageCode = 'en-us'
-title = '-Second- 🧠🧠'
+title = '-Second- 🧠🧠-'
 theme = 'PaperMod'
 
 staticDir = ['content/posts/Attachments']
