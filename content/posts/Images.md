@@ -15,4 +15,4 @@
 ![Full path ](/Pasted%20image%20221203123146.png)
 #### discourse with no percent attempt <>
 
-![alt](</Pasted image 200204051234435.jpg>)
+![firefox purple](</Pasted image 20221203112824>)
