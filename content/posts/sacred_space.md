@@ -23,3 +23,8 @@
 ## dot back
 
 ![something goes here](<../../Attachments/woeih.png>)
+
+
+![](Pasted%20image%2020221206203907.png)
+
+![](/Attachments/Pasted%20image%2020221206203912.png)
