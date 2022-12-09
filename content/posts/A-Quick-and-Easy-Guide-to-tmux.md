@@ -1,3 +1,9 @@
+
+---
+title: "Tmux Essentials"
+date: 2021-12-27T19:56:13-05:00
+draft: false
+---
 # A Quick and Easy Guide to tmux
 
 The shortcut to split panes into a left and a right pane is `C-b %`.

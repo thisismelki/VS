@@ -1,3 +1,8 @@
+---
+title: "Git basics"
+date: 2022-10-22T19:56:13-05:00
+draft: false
+---
 # Git
 ```bash
 git remote add origin https://github.com/XuQtAK3p23E7/react-blog.git

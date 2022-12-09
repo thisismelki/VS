@@ -1,3 +1,8 @@
+---
+title: "Hugo Obsidian Images Test"
+date: 2022-12-03T19:56:13-05:00
+draft: false
+---
 # Default in Obsidian
 ![Red & Green Text](Pasted%20image%2020221203183750.png)
 ![Red & Green Text](/Pasted%20image%2020221203183750.png)

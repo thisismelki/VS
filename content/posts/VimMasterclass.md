@@ -1,4 +1,8 @@
-
+---
+title: "Vim Basics"
+date: 2022-01-02T19:56:13-05:00
+draft: false
+---
 
 # Section 2 Vim Quickstart
 

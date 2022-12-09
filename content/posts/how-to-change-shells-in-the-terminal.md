@@ -3,7 +3,7 @@ title: "How to Change Shells in the Terminal"
 date: 2022-12-08T19:47:22-05:00
 draft: false
 ---
-check which shell you are in.
+Check which shell you are in.
 ```bash
 echo $SHELL
 ```

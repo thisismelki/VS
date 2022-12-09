@@ -1,4 +1,8 @@
-
+---
+title: "Amazon IT Support Associate II"
+date: 2022-11-27T19:56:13-05:00
+draft: false
+---
 Questions
 
 3. What is 169.xxx IP address? How to fix 169 IP address error? 4. how do you see all running applications in windows ? What is command in the CLI (Microsoft)? Can we also check it in Linux CLI? 5. What troubleshooting steps you will follow if the printer is not working?
