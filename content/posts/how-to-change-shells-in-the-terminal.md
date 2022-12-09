@@ -13,8 +13,17 @@ Check shells available for use
 cat /etc/shells
 ```
 
-Change shell
+Change shell the long way
 ```bash
 chsh --shell /bin/bash
+```
+
+Change shell the short way
+
+```bash
+# for bash
+chsh -s /bin/bash
+# for fish
+chsh -s /usr/local/bin/fish
 ```
 
