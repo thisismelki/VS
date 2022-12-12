@@ -1,9 +1,11 @@
 baseURL = 'http://notes.melkialarcon.com/'
 languageCode = 'en-us'
-title = '-Second- 🧠-🧠-'
+title = '🧠'
 theme = 'PaperMod'
 
-
+[params]
+ShowCodeCopyButtons = true
 [[module.mounts]]
 source = 'content/posts/Attachments'
 target = 'static/Attachments'
+
