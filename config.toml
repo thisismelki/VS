@@ -5,6 +5,8 @@ theme = 'PaperMod'
 
 [params]
 ShowCodeCopyButtons = true
+ShowReadingTime = true
+
 [[module.mounts]]
 source = 'content/posts/Attachments'
 target = 'static/Attachments'
