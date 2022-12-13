@@ -9,7 +9,7 @@ draft: false
 ---
 
 WMI is a subsystem of PowerShell that provides system administrators with ==powerful tools for system monitoring==. The goal of WMI is to consolidate device and application management across corporate networks. WMI is a core part of the Windows operating system and has come pre-installed since Windows 2000. It is made up of the following components:
-![](Pasted%20image%2020221212193022.png)
+![](/Attachments/Pasted%20image%2020221212193022.png)
 
 Some of the uses for WMI are:
 
