@@ -13,4 +13,4 @@ source = 'content/posts/Attachments'
 target = 'static/Attachments'
 
 [markup.highlight]
-style = "atom-one-dark"
+style = "base16-snazzy"
