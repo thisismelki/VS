@@ -3,8 +3,6 @@ languageCode = 'en-us'
 title = '🧠'
 theme = 'PaperMod'
 
-[params.assets]
-disableHLJS = true
 
 [params]
 ShowCodeCopyButtons = true
@@ -14,3 +12,5 @@ ShowReadingTime = true
 source = 'content/posts/Attachments'
 target = 'static/Attachments'
 
+[markup.highlight]
+style = "atom-one-dark"
