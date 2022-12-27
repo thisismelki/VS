@@ -3,6 +3,8 @@ languageCode = 'en-us'
 title = '🧠'
 theme = 'PaperMod'
 
+[markup.goldmark.renderer]
+unsafe = true
 
 [params]
 ShowCodeCopyButtons = true
