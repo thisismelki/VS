@@ -9,6 +9,7 @@ unsafe = true
 [params]
 ShowCodeCopyButtons = true
 ShowReadingTime = true
+ShowBreadCrumbs = true
 
 [[module.mounts]]
 source = 'content/posts/Attachments'
@@ -20,6 +21,6 @@ style = "base16-snazzy"
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]
 
-[params]
-ShowBreadCrumbs = true
+
+
 
