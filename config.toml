@@ -16,3 +16,8 @@ target = 'static/Attachments'
 
 [markup.highlight]
 style = "base16-snazzy"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
+
