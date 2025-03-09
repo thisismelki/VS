@@ -1,6 +1,6 @@
 baseURL = 'http://notes.melkialarcon.com/'
 languageCode = 'en-us'
-title = '🧠'
+title = 'Second 🧠'
 theme = 'PaperMod'
 
 [markup.goldmark.renderer]
