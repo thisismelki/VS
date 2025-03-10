@@ -1,6 +1,6 @@
 baseURL = 'http://notes.melkialarcon.com/'
 languageCode = 'en-us'
-title = 'Second 🧠'
+title = 'Second( 🧠)'
 theme = 'PaperMod'
 
 [markup.goldmark.renderer]
@@ -10,6 +10,14 @@ unsafe = true
 ShowCodeCopyButtons = true
 ShowReadingTime = true
 ShowBreadCrumbs = true
+  [params.fuseOpts]
+  isCaseSensitive = false
+  shouldSort = true
+  location = 0
+  distance = 1_000
+  threshold = 0.4
+  minMatchCharLength = 0
+  keys = [ "title", "permalink", "summary", "content" ]
 
 [[module.mounts]]
 source = 'content/posts/Attachments'
